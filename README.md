@@ -21,7 +21,6 @@ This project leverages Microsoft Azure services and Databricks to process, trans
 - **lookup.dbc** – Stores lookup tables for reference data.
 - **lookupnotebook.dbc** – Handles data lookups and reference mappings.
 - **silver_data_transformationNotebook.dbc** – Processes and refines Silver-layer data.
-- **Untitled Notebook.dbc** – Additional exploratory or support notebook.
 - **Azure Databricks Jobs Folder** – Contains job configurations and execution logs.
 
 ## Getting Started
